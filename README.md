@@ -1,4 +1,5 @@
 <h1>Hi, I'm Yossef!</h1>
+BS - Cybersecurity Graduate w/ Sec+ certification, working on home labs to strengthen skills through hands-on experience.
 
 <h2>👨‍💻 Projects:</h2>
 
