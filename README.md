@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity Homelab Workstation Build</b>
-  - [The Process](https://github.com/yossefhabib)
+  - [The Process]([https://github.com/yossefhabib](https://github.com/yossefhabib/HomelabWorkstationBuild))
 
 <h2>💎 Cirtifications</h2>
 
